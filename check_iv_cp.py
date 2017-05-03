@@ -4,9 +4,10 @@
 import sys
 import time
 import telepot
-from urllib import urlopen
 import ConfigParser
 import os
+import requests
+
 
 #import for pgoapi
 from pgoapi import PGoApi
